@@ -5,7 +5,7 @@ import { Card, CardContent } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
 import { PageHead } from "@/components/page-head";
 import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar";
-import profilePhoto from "@assets/pic2_1764868367698.jpg";
+import profilePhoto from "@assets/pic2.jpg";
 
 const stats = [
   { value: "9.25", label: "CGPA", icon: GraduationCap },
