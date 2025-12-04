@@ -79,7 +79,7 @@ export default function Home() {
                 <a href="/api/resume/download" download>
                   <Button variant="outline" size="lg" data-testid="button-download-resume">
                     <Download className="mr-2 h-5 w-5" />
-                    Download CV
+                    Download Resume
                   </Button>
                 </a>
               </div>
