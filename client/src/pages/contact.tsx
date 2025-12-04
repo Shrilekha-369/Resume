@@ -33,13 +33,6 @@ const contactInfo = [
     copyable: true,
   },
   {
-    icon: Phone,
-    label: "Phone",
-    value: "+91 8277389690",
-    href: "tel:+918277389690",
-    copyable: true,
-  },
-  {
     icon: MapPin,
     label: "Location",
     value: "Bangalore, Karnataka",
