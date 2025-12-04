@@ -8,7 +8,6 @@ import profilePhoto from "@assets/pic2.jpg";
 const personalInfo = [
   { label: "Full Name", value: "Mudunuri Shrilekha", icon: User },
   { label: "Location", value: "Bangalore, Karnataka", icon: MapPin },
-  { label: "Phone", value: "+91 8277389690", icon: Phone },
   { label: "Email", value: "shrilekha.cse@gmail.com", icon: Mail },
   { label: "Education Status", value: "Pre-final Year, B.E. CSE", icon: Calendar },
 ];
@@ -27,7 +26,7 @@ const awards = [
     category: "International",
   },
   {
-    title: "Finalist - International CS Competition 2025",
+    title: "Finalist - International Computer Science Competition 2025",
     event: "Global Competition",
     description: "Ranked in Top 10% globally",
     category: "Competition",
