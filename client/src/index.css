@@ -196,7 +196,9 @@
  * need to be distinguished from eachother visually.
  */
 @layer utilities {
-
+  .border-border {
+    border-color: hsl(var(--border));
+  }
   /* Hide ugly search cancel button in Chrome until we can style it properly */
   input[type="search"]::-webkit-search-cancel-button {
     @apply hidden;
