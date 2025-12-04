@@ -13,7 +13,7 @@ import { useToast } from "@/hooks/use-toast";
 import { apiRequest } from "@/lib/queryClient";
 import { PageHead } from "@/components/page-head";
 import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar";
-import profilePhoto from "@assets/pic2_1764868367698.jpg";
+import profilePhoto from "@assets/pic2.jpg";
 
 const contactSchema = z.object({
   name: z.string().min(2, "Name must be at least 2 characters"),
